@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		module 2 assignment
+	</title>
+	<style>
+table {
+ float: left;
+  background-color: lightgrey;
+  width: 500px;
+  border: 3px solid black;
+  padding: 50px;
+  margin: 20px;
+  height: 100px;
+}
+</style>
+</head>
+<body>
+	<h1 align="center">Our Menu</h1>
+	<table  >
+		
+		<tr >
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th align="right" bgcolor="pink">Chicken</th>
+		</tr>
+		<tr>
+			<td rowspan="6">
+				lorem ipsum dolor sit amet,consector odipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nosturd exercitatio ullamco laboris nisi ut aliquip ex ea commodo consequat.
+			</td>
+		</tr>
+
+	</table>
+	<table  >
+		
+		<tr >
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th align="right" bgcolor="red" style="color:white ">Beef</th>
+		</tr>
+		<tr>
+			<td>
+				lorem ipsum dolor sit amet,consector odipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nosturd exercitatio ullamco laboris nisi ut aliquip ex ea commodo consequat.
+			</td>
+		</tr>
+
+	</table>
+	<table  >
+		
+		<tr >
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th bgcolor="lightgrey">                                   </th>
+			<th align="right" bgcolor="yellow">sushi</th>
+		</tr>
+		<tr>
+			<td>
+				lorem ipsum dolor sit amet,consector odipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nosturd exercitatio ullamco laboris nisi ut aliquip ex ea commodo consequat.
+			</td>
+		</tr>
+
+	</table>
+
+</body>
+</html>
